@@ -1,4 +1,0 @@
-streamlit
-nltk
-transformers
-torch

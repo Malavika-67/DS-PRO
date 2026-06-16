@@ -1,0 +1,26 @@
+MACHINE LEARNING:
+Machine Learning is a subset of Artificial Intelligence that enables systems to learn patterns from data and improve performance without being explicitly programmed.
+
+DEEP LEARNING:
+Deep Learning is a specialized branch of Machine Learning that uses multi-layered neural networks to analyze complex data such as images, speech, and text, achieving high accuracy in tasks like computer vision and natural language processing.
+
+NATURAL LANGUAGE PROCESSING:
+Natural Language Processing (NLP) is a field of AI focused on enabling machines to understand, interpret, and generate human language.
+
+COMPUTER VISION:
+Computer Vision is a branch of AI that allows systems to interpret and process visual information from the world, such as images and videos.
+
+SUPERVISED LEARNING:
+Supervised Learning is a type of Machine Learning where models are trained on labeled data to make predictions.
+
+UNSUPERVISED LEARNING:
+Unsupervised Learning is a type of Machine Learning that finds hidden patterns in data without using labels.
+
+REINFORCEMENT LEARNING:
+Reinforcement Learning is a type of Machine Learning where agents learn by interacting with an environment and receiving rewards or penalties.
+
+DATA SCIENCE:
+Data Science combines statistics, programming, and domain expertise to extract insights and knowledge from data.
+
+NEURAL NETWORK:
+A Neural Network is a computational model inspired by the human brain, consisting of interconnected nodes (neurons) that process information.
