@@ -1,0 +1,33 @@
+GENERATIVE AI:
+Generative AI is a branch of Artificial Intelligence that can create text, images, audio, videos, and code from user prompts. It learns patterns from large datasets and generates new content that resembles human-created work. Applications include chatbots, content generation, image synthesis, and virtual assistants.
+
+CLOUD COMPUTING:
+Cloud Computing delivers computing services such as servers, storage, databases, networking, and software over the internet. It provides scalable and on-demand access to resources without requiring users to maintain physical infrastructure. Cloud platforms improve flexibility, reliability, and cost efficiency for businesses and individuals.
+
+EDGE COMPUTING:
+Edge Computing processes data closer to where it is generated rather than relying entirely on centralized cloud servers. This reduces latency, decreases bandwidth usage, and enables faster decision-making. It is widely used in Internet of Things systems, autonomous vehicles, and real-time applications.
+
+BLOCKCHAIN:
+Blockchain is a distributed ledger technology that securely records transactions across multiple computers. Each transaction is stored in blocks that are linked together, creating a transparent and tamper-resistant record. It is commonly used in cryptocurrencies, digital asset management, and secure data sharing.
+
+INTERNET OF THINGS:
+The Internet of Things (IoT) refers to a network of interconnected devices that collect and exchange data through the internet. These devices can communicate with each other to automate processes and improve efficiency. Examples include smart homes, wearable devices, industrial sensors, and connected vehicles.
+
+BIG DATA:
+Big Data refers to extremely large and complex datasets that require advanced tools for storage, processing, and analysis. Organizations use big data technologies to identify trends, make predictions, and support decision-making. It plays an important role in business intelligence, healthcare, finance, and scientific research.
+
+CYBERSECURITY:
+Cybersecurity is the practice of protecting systems, networks, and data from cyber threats and unauthorized access. It involves techniques such as encryption, authentication, firewalls, and threat detection. Effective cybersecurity helps maintain the privacy, integrity, and availability of digital information.
+
+AUGMENTED REALITY:
+Augmented Reality (AR) overlays digital information such as images, text, animations, or 3D objects onto the real-world environment. It enhances user experiences by combining physical and virtual elements. AR is commonly used in education, gaming, navigation, retail, and healthcare applications.
+
+VIRTUAL REALITY:
+Virtual Reality (VR) immerses users in a fully simulated digital environment using headsets and motion-tracking technology. It creates realistic interactive experiences for gaming, training, education, and simulation purposes. VR allows users to explore virtual worlds as if they were physically present.
+
+QUANTUM COMPUTING:
+Quantum Computing uses principles of quantum mechanics to perform computations that are difficult for classical computers. It relies on quantum bits, or qubits, which can represent multiple states simultaneously. This technology has potential applications in cryptography, optimization, drug discovery, and scientific modeling.
+
+ROBOTICS:
+Robotics is the field of designing, building, and programming machines that can perform tasks autonomously or semi-autonomously. It combines mechanical engineering, electronics, and artificial intelligence to create intelligent systems. Robotics is widely used in manufacturing, healthcare, logistics, agriculture, and space exploration.
+
