@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+easyocr
+numpy
+pillow
+sentencepiece
+protobuf
+safetensors
+tqdm
+huggingface-hub
+tokenizers
