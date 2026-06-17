@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+embeddings.pkl
+MedQuAD-master.zip
