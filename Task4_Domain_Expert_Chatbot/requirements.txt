@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+transformers
+torch
+langchain
+langchain-community
+ollama
+networkx
+matplotlib
+wordcloud
+scikit-learn
+tqdm

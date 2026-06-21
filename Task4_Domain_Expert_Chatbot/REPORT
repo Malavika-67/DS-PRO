@@ -1,0 +1,49 @@
+# 📚 ArXiv Expert Chatbot
+
+## Introduction
+
+This internship project focused on developing an AI-powered ArXiv Expert Chatbot capable of retrieving, summarizing, and explaining Computer Science research papers. The system integrates semantic search, large language models, information extraction, and visualization techniques to assist users in exploring academic literature efficiently.
+
+## Background
+
+With the rapid growth of scientific publications, researchers often face difficulties in locating and understanding relevant research papers. Retrieval-Augmented Generation (RAG) systems provide an effective solution by combining information retrieval with language models. This project applies these concepts to create an intelligent research assistant using the arXiv dataset.
+
+## Learning Objectives
+
+* Understand the fundamentals of Retrieval-Augmented Generation (RAG).
+* Implement semantic search using sentence embeddings.
+* Integrate Large Language Models for question answering and summarization.
+* Develop information extraction and visualization components.
+* Build an interactive web application using Streamlit.
+
+## Activities and Tasks
+
+The project began with loading and preprocessing Computer Science papers from the arXiv dataset. Sentence Transformer embeddings were generated to enable semantic retrieval of relevant papers. A retrieval module based on cosine similarity was implemented to identify the most relevant documents for user queries. Ollama with the Gemma 2B model was integrated to generate expert answers and summaries. Additional modules were developed for extracting methods, datasets, and evaluation metrics from research papers. Word Cloud and Concept Graph visualizations were added to improve research insight discovery. Finally, the application was integrated into a Streamlit interface and tested using multiple research-related queries.
+
+## Skills and Competencies
+
+* Python Programming
+* Natural Language Processing (NLP)
+* Retrieval-Augmented Generation (RAG)
+* Semantic Search
+* Large Language Models (LLMs)
+* Information Extraction
+* Data Visualization
+* Streamlit Application Development
+* Git and GitHub Version Control
+
+## Feedback and Evidence
+
+The chatbot successfully retrieved relevant research papers and generated context-aware responses. Summaries highlighted key objectives, methodologies, and findings of research papers. Information extraction correctly identified common methods, datasets, and evaluation metrics, while visualizations provided intuitive representations of extracted concepts.
+
+## Challenges and Solutions
+
+One major challenge was handling large-scale arXiv data efficiently. This was addressed by limiting the dataset size and storing embeddings for reuse. Another challenge involved extracting meaningful research entities from diverse paper abstracts, which was solved using rule-based pattern matching and filtering techniques. Response quality was improved through prompt engineering and retrieval optimization.
+
+## Outcomes and Impact
+
+The final system functions as an intelligent research assistant capable of searching academic papers, answering research questions, summarizing content, extracting key information, and generating visual insights. The project demonstrates the practical application of RAG systems, semantic search, and LLM integration in solving real-world information retrieval problems.
+
+## Conclusion
+
+This internship provided valuable hands-on experience in developing AI-powered research tools using modern NLP and machine learning technologies. The project successfully achieved its objectives and strengthened practical skills in semantic search, large language model integration, information extraction, and interactive application development.
