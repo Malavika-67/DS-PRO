@@ -1,14 +1,14 @@
-# 📚 ArXiv Expert Chatbot – Internship Report
+#  ArXiv Expert Chatbot 
 
 ---
 
-## 📖 Introduction
+##  Introduction
 
 The objective of this internship project was to develop an AI-powered **ArXiv Expert Chatbot** capable of retrieving, analyzing, summarizing, and explaining Computer Science research papers. The system combines semantic search, retrieval-augmented generation (RAG), large language models, and visualization techniques to assist users in exploring academic literature efficiently.
 
 ---
 
-## 🌍 Background
+##  Background
 
 The rapid growth of scientific publications has made it increasingly difficult for researchers and students to locate relevant information quickly. Traditional keyword-based search systems often fail to capture the semantic meaning of user queries.
 
@@ -16,7 +16,7 @@ To address this challenge, an intelligent research assistant was developed using
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 During this project, the following learning objectives were pursued:
 
@@ -30,7 +30,7 @@ During this project, the following learning objectives were pursued:
 
 ---
 
-## 🛠 Activities and Tasks
+##  Activities and Tasks
 
 ### Data Processing
 
@@ -78,7 +78,7 @@ During this project, the following learning objectives were pursued:
 
 ---
 
-## 💡 Skills and Competencies Acquired
+##  Skills and Competencies Acquired
 
 | Technical Skills               | Tools & Technologies  |
 | ------------------------------ | --------------------- |
@@ -94,7 +94,7 @@ During this project, the following learning objectives were pursued:
 
 ---
 
-## 📊 Feedback and Evidence
+##  Feedback and Evidence
 
 The developed chatbot successfully demonstrated:
 
@@ -112,7 +112,7 @@ Testing with multiple Computer Science research queries showed that the chatbot 
 
 ---
 
-## ⚠ Challenges and Solutions
+##  Challenges and Solutions
 
 | Challenge                         | Solution                                   |
 | --------------------------------- | ------------------------------------------ |
@@ -124,7 +124,7 @@ Testing with multiple Computer Science research queries showed that the chatbot 
 
 ---
 
-## 🚀 Outcomes and Impact
+##  Outcomes and Impact
 
 The final system serves as an intelligent research assistant capable of:
 
@@ -139,7 +139,7 @@ The project demonstrates practical applications of Retrieval-Augmented Generatio
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The internship provided valuable hands-on experience in Natural Language Processing, Retrieval-Augmented Generation, semantic search, and Large Language Model integration. The developed ArXiv Expert Chatbot successfully achieved its objectives and demonstrated how AI can be leveraged to simplify the exploration and understanding of scientific literature.
 
