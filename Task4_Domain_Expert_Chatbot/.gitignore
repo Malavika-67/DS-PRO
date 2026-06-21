@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+Task4_Domain_Expert_Chatbot/data/arxiv-metadata-oai-snapshot.json
+
